@@ -16,7 +16,6 @@ In this project, we will deploy Llama-2 on AWS Sagemaker and perform prompt engi
 
 6. Give Prompt to Llama-2 to get outputs.
 
-___________________________________________________________________________________________________________________
 
 
 ## Prompt Engineering
@@ -60,7 +59,6 @@ Together, these parameters offer a nuanced control over the text generation proc
 
 For our testing, we first try out various approaches to Prompt Engineering without changing the aforementioned parameters, to test how the approaches perform against one another. We then tweak the above-mentioned parameters to see their influence on the results.
 
-***
 ## Final Conclusion
 
 For the task fo vacation planning, when inputting basic promts of various type, the best permance was for: ART, Self Consistency and RAG.
