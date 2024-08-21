@@ -1,6 +1,6 @@
 # LLMs with SageMaker
 
-In this project, we will deploy Llama-2 on Sagemaker and perform prompt engineering for an AI Vacation Manager
+In this project, we will deploy Llama-2 on AWS Sagemaker and perform prompt engineering for an AI Vacation Manager
 
 
 ## MLOps on Sagemaker to deploy Llama-2
